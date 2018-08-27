@@ -1,3 +1,3 @@
 # shankarkrish.github.io
 
-Hi everyone! This is Shankar. Learn a little bit about me by visiting my webpage at shankarkrish.io.
+Hi everyone! My name is Shankar Krishnakumar. If you want to learn a little bit about me, visit my webpage at shankarkrish.io.
