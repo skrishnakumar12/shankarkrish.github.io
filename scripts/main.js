@@ -41,3 +41,6 @@ $('a.smooth-scroll')
     }
   }
 });
+$('#stopClick').click(function(e) {
+  e.preventDefault();
+});
